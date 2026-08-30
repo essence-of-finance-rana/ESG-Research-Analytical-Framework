@@ -175,21 +175,3 @@ Source quality and evidentiary strength are explicitly considered throughout the
 
 ---
 
-# Repository Structure
-
-```text
-ESG-Research-Analytical-Framework/
-│
-├── README.md
-│
-├── Dossiers/
-│   ├── Dossier-01-Financial-Materiality.pdf
-│   ├── Dossier-02-Impact-Double-Materiality.pdf
-│   ├── Dossier-03-Climate-Scenario-Transition-Risk.pdf
-│   └── Dossier-04-Strategy-Transformation-Execution.pdf
-│
-├── Analysis/
-│   └── ESG-Benchmarking.xlsx
-│
-└── References/
-    └── Research-Sources.md
